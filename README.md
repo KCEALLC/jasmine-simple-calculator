@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.org/KCEALLC/jasmine-simple-calculator.svg?branch=master)](https://travis-ci.org/KCEALLC/jasmine-simple-calculator)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 
 Jasmine Simple Calculator
 
