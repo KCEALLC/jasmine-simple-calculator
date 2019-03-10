@@ -13,7 +13,7 @@ Uses a headless browser from the CL to run unit test.
 3. To use the calculator, open simple-calculator.html in a browser.
 
 ###### Jasmine Unit Testing ######
-1. From the CL run **karma start **. A new directory coverage will be created. 
+1. From the CL run **karma start**. A new directory coverage will be created. 
 2. To view the test results, navigate to **coverage**/index.html and open in your browser.
 
 
