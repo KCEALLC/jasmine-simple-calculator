@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/KCEALLC/jasmine-simple-calculator.svg?branch=master)](https://travis-ci.org/KCEALLC/jasmine-simple-calculator)
 Jasmine Simple Calculator
 
 #### Description ####
